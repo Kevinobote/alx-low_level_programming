@@ -4,7 +4,7 @@
 
 /**
  * main - Program that prints the alphabet in lowercae, and then in upper
- * Retuen: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
