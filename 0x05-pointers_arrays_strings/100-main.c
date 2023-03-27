@@ -8,7 +8,7 @@
  */
 int main(void)
 {
-	int nd;
+	int nb;
 
 	nb = _atoi("98");
 	printf("%d\n", nb);
