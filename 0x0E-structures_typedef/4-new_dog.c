@@ -60,10 +60,10 @@ dog_t *new_dog(char *name, float age, char *owner)
 {
 	dog_t *dog;
 	int len1;
-	int len2;
+	/**int len2;**/
 
 	len1 = _ostrlen(name);
-	len2 = _strlen(owner);
+	/**len2 = _strlen(owner);**/
 
 	dog = malloc(sizeof(dog_t));
 	if (dog == NULL)
